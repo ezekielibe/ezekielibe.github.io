@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Ezekiel Ibegbunam</title>
+    <link>//ezekielibe.github.io/post/</link>
+    <description>Recent content in Projects on Ezekiel Ibegbunam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Mar 2020 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="//ezekielibe.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Forecasting Stocks and Commodity Prices</title>
+      <link>//ezekielibe.github.io/post/project-1/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//ezekielibe.github.io/post/project-1/</guid>
+      <description>Trend observed for International Business Machines Corporation
+  About
+Financial services are classified into three broad segment:
+ Consumer finance Capital market Diversified financial services.  Stock markets are the non-banking segment belonging to diversified financial services.
+Problem Statement
+The stock market appears in news every day. The rate of investment opportunities in the stock market can increase if an efficient algorithm could be devised to predict the short term price of an individual stock.</description>
+    </item>
+    
+    <item>
+      <title>Retail Analytics</title>
+      <link>//ezekielibe.github.io/post/project-2/</link>
+      <pubDate>Tue, 14 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>//ezekielibe.github.io/post/project-2/</guid>
+      <description>About
+Retail spans across various industries where business to consumer transactions happen very frequently.
+In business-to-customer transaction the goods or services move from producer of goods and services.
+The clear differentiation in the business approach can be seen below:
+Retail Type| &amp;amp; |Focus
+Brick &amp;amp; mortar : In-shop experience
+Online Retailer : Ease of access save
+Hybrid : Extension of in-shop experiences
+Retail Segments:
+ Specialty retail Food &amp;amp; beverages Work home, lifestyle General retailing Logistics  Area of focus is with the general retailing which sells product in all categories.</description>
+    </item>
+    
+    <item>
+      <title>Financial Analytics</title>
+      <link>//ezekielibe.github.io/post/project-3/</link>
+      <pubDate>Sat, 11 Jul 2020 11:13:32 -0400</pubDate>
+      
+      <guid>//ezekielibe.github.io/post/project-3/</guid>
+      <description>About
+Loan default prediction is one of the most critical and crucial problem faced by financial institutions and organizations as it has a noteworthy effect on the probability of these institutions.
+Problem Statement
+A company wants to automate the loan eligibility process(real time) based on customer detail provided while filling online application form. These details are
+ Gender, Marital status, Education, Number of dependents, Income, Loan amount, Credit history etc.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning in Banking</title>
+      <link>//ezekielibe.github.io/post/project-3-2/</link>
+      <pubDate>Fri, 12 Jun 2020 11:14:48 -0400</pubDate>
+      
+      <guid>//ezekielibe.github.io/post/project-3-2/</guid>
+      <description>Variation exists in all processes, understanding and reducing variation are keys to success.
+Financial industry consists of Banking and Non-banking, with focus to banking we have the following below:
+ Consumer lending E-payment Business lending  In view of the project associated with the case study used is consumer lending to determine the credit worthiness of consumers, where lenders use various factors such as credit score, annual income, the loan amount approved, tenure, debt to income ratio etc, and then select your interest rates.</description>
+    </item>
+    
+    <item>
+      <title>Business Analytics</title>
+      <link>//ezekielibe.github.io/post/project-3-3/</link>
+      <pubDate>Tue, 14 Apr 2020 11:25:05 -0400</pubDate>
+      
+      <guid>//ezekielibe.github.io/post/project-3-3/</guid>
+      <description>About
+RFM
+ Recency (R) = Time since last purchase Frequency(F) = Total number of purchase Monetary value (M) = Total monetary values  Each corresponding to some key customer trait. These metrics are important indicators of customer&amp;rsquo;s behaviour because frequency and monetary value affects a customer&amp;rsquo;s lifetime value and recency affects retention a measure of engagement.
+RFM factors illustrate these facts:
+ The more recent the purchase the more responsive the customer is to promotions.</description>
+    </item>
+    
+  </channel>
+</rss>

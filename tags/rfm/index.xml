@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RFM on Ezekiel Ibegbunam</title>
+    <link>//ezekielibe.github.io/tags/rfm/</link>
+    <description>Recent content in RFM on Ezekiel Ibegbunam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Apr 2020 11:25:05 -0400</lastBuildDate>
+    
+	<atom:link href="//ezekielibe.github.io/tags/rfm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Business Analytics</title>
+      <link>//ezekielibe.github.io/post/project-3-3/</link>
+      <pubDate>Tue, 14 Apr 2020 11:25:05 -0400</pubDate>
+      
+      <guid>//ezekielibe.github.io/post/project-3-3/</guid>
+      <description>About
+RFM
+ Recency (R) = Time since last purchase Frequency(F) = Total number of purchase Monetary value (M) = Total monetary values  Each corresponding to some key customer trait. These metrics are important indicators of customer&amp;rsquo;s behaviour because frequency and monetary value affects a customer&amp;rsquo;s lifetime value and recency affects retention a measure of engagement.
+RFM factors illustrate these facts:
+ The more recent the purchase the more responsive the customer is to promotions.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Random forest on Ezekiel Ibegbunam</title>
+    <link>//ezekielibe.github.io/tags/random-forest/</link>
+    <description>Recent content in Random forest on Ezekiel Ibegbunam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Oct 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="//ezekielibe.github.io/tags/random-forest/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Forecasting Stocks and Commodity Prices</title>
+      <link>//ezekielibe.github.io/post/project-1/</link>
+      <pubDate>Fri, 02 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//ezekielibe.github.io/post/project-1/</guid>
+      <description>Trend observed for International Business Machines Corporation
+  About
+Financial services are classified into three broad segment:
+ Consumer finance Capital market Diversified financial services.  Stock markets are the non-banking segment belonging to diversified financial services.
+Problem Statement
+The stock market appears in news every day. The rate of investment opportunities in the stock market can increase if an efficient algorithm could be devised to predict the short term price of an individual stock.</description>
+    </item>
+    
+  </channel>
+</rss>

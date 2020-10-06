@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exploratory Data Analysis on Ezekiel Ibegbunam</title>
+    <link>//ezekielibe.github.io/tags/exploratory-data-analysis/</link>
+    <description>Recent content in Exploratory Data Analysis on Ezekiel Ibegbunam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jul 2020 11:00:59 -0400</lastBuildDate>
+    
+	<atom:link href="//ezekielibe.github.io/tags/exploratory-data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Retail Analytics</title>
+      <link>//ezekielibe.github.io/post/project-2/</link>
+      <pubDate>Tue, 14 Jul 2020 11:00:59 -0400</pubDate>
+      
+      <guid>//ezekielibe.github.io/post/project-2/</guid>
+      <description>About
+Retail spans across various industries where business to consumer transactions happen very frequently.
+In business-to-customer transaction the goods or services move from producer of goods and services.
+The clear differentiation in the business approach can be seen below:
+Retail Type| &amp;amp; |Focus
+Brick &amp;amp; mortar : In-shop experience
+Online Retailer : Ease of access save
+Hybrid : Extension of in-shop experiences
+Retail Segments:
+ Specialty retail Food &amp;amp; beverages Work home, lifestyle General retailing Logistics  Area of focus is with the general retailing which sells product in all categories.</description>
+    </item>
+    
+  </channel>
+</rss>

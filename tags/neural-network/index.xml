@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neural network on Ezekiel Ibegbunam</title>
+    <link>//ezekielibe.github.io/tags/neural-network/</link>
+    <description>Recent content in Neural network on Ezekiel Ibegbunam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jul 2020 11:13:32 -0400</lastBuildDate>
+    
+	<atom:link href="//ezekielibe.github.io/tags/neural-network/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Financial Analytics</title>
+      <link>//ezekielibe.github.io/post/project-3/</link>
+      <pubDate>Sat, 11 Jul 2020 11:13:32 -0400</pubDate>
+      
+      <guid>//ezekielibe.github.io/post/project-3/</guid>
+      <description>About
+Loan default prediction is one of the most critical and crucial problem faced by financial institutions and organizations as it has a noteworthy effect on the probability of these institutions.
+Problem Statement
+A company wants to automate the loan eligibility process(real time) based on customer detail provided while filling online application form. These details are
+ Gender, Marital status, Education, Number of dependents, Income, Loan amount, Credit history etc.</description>
+    </item>
+    
+  </channel>
+</rss>

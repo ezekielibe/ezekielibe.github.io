@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CatBoost Classifier on Ezekiel Ibegbunam</title>
+    <link>//ezekielibe.github.io/tags/catboost-classifier/</link>
+    <description>Recent content in CatBoost Classifier on Ezekiel Ibegbunam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Jun 2020 11:14:48 -0400</lastBuildDate>
+    
+	<atom:link href="//ezekielibe.github.io/tags/catboost-classifier/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Machine Learning in Banking</title>
+      <link>//ezekielibe.github.io/post/project-3-2/</link>
+      <pubDate>Fri, 12 Jun 2020 11:14:48 -0400</pubDate>
+      
+      <guid>//ezekielibe.github.io/post/project-3-2/</guid>
+      <description>Variation exists in all processes, understanding and reducing variation are keys to success.
+Financial industry consists of Banking and Non-banking, with focus to banking we have the following below:
+ Consumer lending E-payment Business lending  In view of the project associated with the case study used is consumer lending to determine the credit worthiness of consumers, where lenders use various factors such as credit score, annual income, the loan amount approved, tenure, debt to income ratio etc, and then select your interest rates.</description>
+    </item>
+    
+  </channel>
+</rss>
